@@ -1,7 +1,7 @@
 # EX-NO-6-Pseudo-Random-Number
-## NAME : KARTHICK KISHORE T
-## REG NO : 212223220042
-## DATE : 
+## NAME : HEMAPRIYAN.P
+## REG NO : 212224040116
+## DATE : 29-04-2025
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
